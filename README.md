@@ -1,5 +1,7 @@
 [![General Assembly Logo](/ga_cog.png)](https://generalassemb.ly)
 
+# Good example for setting up express server with EJS view engine
+
 # Biscoff Bakery
 
 ![](https://i.ytimg.com/vi/CIGk1sgCfSg/maxresdefault.jpg)
